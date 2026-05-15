@@ -53,7 +53,7 @@ streamlit run app.py
 
 Author: **Lea Mehmetaj**
 
-Mentor:** Dr. Sc. Liridon Hoti**
+Mentor: ** Dr. Sc. Liridon Hoti**
 
 Institution: **UBT - Faculty of Mechatronics Engineering**
 
