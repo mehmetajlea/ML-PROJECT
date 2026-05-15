@@ -14,7 +14,6 @@ from sklearn.impute import KNNImputer
 from sklearn.linear_model import LogisticRegression, SGDClassifier
 from imblearn.over_sampling import SMOTE
 from imblearn.pipeline import Pipeline as ImbPipeline
-
 optuna.logging.set_verbosity(optuna.logging.WARNING)
 
 #LOAD & PREPARE DATA (Same as standard training)
